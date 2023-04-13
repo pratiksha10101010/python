@@ -1,0 +1,15 @@
+
+
+n1=100
+n2=200
+count=0
+for i in range(n1,n2+1):
+  digit=set(str(i)
+  if len(digit)==len(str(i)):
+    count+=1
+print(count)
+
+
+output
+
+72
